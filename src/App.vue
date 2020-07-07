@@ -2,7 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
-    <div>测试docker</div>
+    <div>测试dock11er</div>
   </div>
 </template>
 
